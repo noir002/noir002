@@ -160,13 +160,13 @@ Welcome Here :)
 
 
 <br><br>
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 
 ![](https://github-profile-trophy.vercel.app/?username=learnershakil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+<br>-->
 
 <!-- WakaTime Section -->
 ### ⏳ Coding Activity:
@@ -200,12 +200,12 @@ Welcome Here :)
 
 <!-- Contribution Graph-->
 
-### 📈 Contribution Graph:
+<!--### 📈 Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnershakil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<br>
+<br>-->
 <!-- Snake-Eating My Contribution Graph -->
 
 ### 🐍 Snake-Eating My Contribution Graph:
