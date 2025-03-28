@@ -1,11 +1,11 @@
 <!-- GIF SECTION -->
 <div style="display: flex; justify-content: center; ">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="auto" />
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" height="auto" width="auto" />
 </div>
 <br>
 
 <!-- HELLO SECTION -->
- <h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Paras Chauhan </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
+ <h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">Hi There!  I'm <a href="#"> Paras </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -17,9 +17,6 @@
 </div>-->
 
 <!-- This will refresh counter on every new user visit -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=learnershakil&icon=0&color=0"  />
-</div>
 
 <!-- About ME -->
 
@@ -27,24 +24,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
+        <img align="left" src="sandbox:/mnt/data/pixelation_effect.gif" height="300" width="250">
     </div>
  
 ```
-learnershakil@github:~$ ./welcome.sh
+Welcome Here :)
 ```
 
 ```markdown
-🎓 Pursuing a Diploma in Computer Science
-👨‍💻 Passionate about programming and exploring the world of technology.
-🔎 Main interests: Development & Penetration Testing
+🎓 Pursuing Bachelors in Computer Science
+👨‍💻 Loves Competitive Programing and Designing .
+🔎 Main interests: Developing & Simplifying Complex Design Architecture.
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into DevOps and Next.js
-🌟 Proficient in: Java, TypeScript
+🌟 Proficient in: Java, JavaScript
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
-🐧 I use Arch btw...
-🎧 Most likely listening to a song right now
 🔄 To understand recursion, you first need to understand recursion.
 ​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
