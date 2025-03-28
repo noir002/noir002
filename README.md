@@ -187,9 +187,9 @@ Welcome Here :)
     </td>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="http://learnershakil.me/"> Coming Soon</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:learnershakil@gmail.com/"> chauhanparas7500@gmail.com</a></li>
-        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/learnershakil/">paras-chauhan02</a></li>
+        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href=""> Coming Soon</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:chauhanparas7500@gmail.com/"> chauhanparas7500@gmail.com</a></li>
+        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/paras-chauhan02/">Paras Chauhan</a></li>
         <!--<li><img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" width="15px"/> Twitter:<a href="https://x.com/learnershakil/"> learnershakil</a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="15"/> Instagram:<a href="https://www.instagram.com/learnershakil/"> learnershakil</a></li>
         <li><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15"/> GitHub:<a href="https://github.com/learnershakil/"> learnershakil</a></li>-->
