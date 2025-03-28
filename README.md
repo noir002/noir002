@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="sandbox:/mnt/data/pixelation_effect.gif" height="300" width="250">
+        <img align="left" src="https://github.com/noir002/noir002/blob/main/pixelation_effect%20(online-video-cutter.com)%20(1).gif?raw=true" height="300" width="250">
     </div>
  
 ```
@@ -95,7 +95,6 @@ Welcome Here :)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
 <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" height="40">
 <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" height="40">
-<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three.js" height="40">
 <img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40">
@@ -154,9 +153,9 @@ Welcome Here :)
 <img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="50">
 <img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50">
-<img src="https://i.ibb.co/41N7NXX/parrot.png" alt="Parrot Security" height="50">
+
 <img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
-<img src="https://i.ibb.co/9yN3jNt/fedora.png" alt="fedora" height="50">
+
 </div>
 
 
@@ -188,12 +187,12 @@ Welcome Here :)
     </td>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="http://learnershakil.me/"> learnershakil.me</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:learnershakil@gmail.com/"> learnershakil@gmail.com</a></li>
-        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/learnershakil/"> learnershakil</a></li>
-        <li><img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" width="15px"/> Twitter:<a href="https://x.com/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="http://learnershakil.me/"> Coming Soon</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:learnershakil@gmail.com/"> chauhanparas7500@gmail.com</a></li>
+        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/learnershakil/">paras-chauhan02</a></li>
+        <!--<li><img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" width="15px"/> Twitter:<a href="https://x.com/learnershakil/"> learnershakil</a></li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="15"/> Instagram:<a href="https://www.instagram.com/learnershakil/"> learnershakil</a></li>
-        <li><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15"/> GitHub:<a href="https://github.com/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15"/> GitHub:<a href="https://github.com/learnershakil/"> learnershakil</a></li>-->
       </ul>
     </td>
   </tr>
