@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://github.com/noir002/noir002/blob/main/pixelation_effect%20(online-video-cutter.com)%20(1).gif?raw=true" height="300" width="250">
+        <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N3bXNzaXd4d3VpODZyenUyenVwd3RlNWl0NmUzZTBleXpqbmZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" height="300" width="250">
     </div>
  
 ```
