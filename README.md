@@ -75,9 +75,9 @@ Welcome Here :)
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40">
-<img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" alt="Rust" height="40">
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40">-->
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40">-->
+<!--<img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" alt="Rust" height="40">-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="40">
@@ -95,9 +95,9 @@ Welcome Here :)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
 <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" height="40">
 <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" height="40">
-<img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" height="40">
+<!--<img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" height="40">-->
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40">
+<!--<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40">-->
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" height="40">
 </div>  
 
@@ -138,17 +138,17 @@ Welcome Here :)
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
+<!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
 <img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40">
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40">-->
 </div>
   
 #### 💻Workspace:
 
 <div align="center">
 <img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
-<img src="https://i.ibb.co/Bwknn5y/redhat.png" alt="Red Hat Enterprise Linux" height="50">
+<!--<img src="https://i.ibb.co/Bwknn5y/redhat.png" alt="Red Hat Enterprise Linux" height="50">-->
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
 <img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="50">
