@@ -1,25 +1,26 @@
 name: Generate Snake Contribution Graph
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # runs once every day at midnight
-  workflow_dispatch:      # allows manual run from Actions tab
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate the Snake Game from GitHub Contributions
+        uses: Platane/snk@v3
         with:
           github_user_name: noir002
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg
 
-      - name: Push generated files
+      - name: Push the Snake Game to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output         # where snake file will go
-          build_dir: dist              # where files are generated
+          target_branch: output
+          build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
