@@ -168,13 +168,13 @@ Welcome Here :)
 
 <br>-->
 
-<!-- WakaTime Section -->
+<!-- WakaTime Section 
 ### ⏳ Coding Activity:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
-<!--<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">-->
+<!--<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&layout=compact&theme=tokyonight&langs_count=6" height="235" />
-</div>
+</div>-->
 
 <!-- Connect me Section -->
 ### 🤝 Connect with me:
