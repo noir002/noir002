@@ -56,11 +56,12 @@ Welcome Here :)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-<div align="center" style="display: flex; gap: 30px; align-items: center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="105" alt="Status Graph" /> -->
-  <img src="https://streak-stats.demolab.com?user=learnershakil&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" alt="Streak Graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnershakil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph"  />
+<div align="center" style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap; justify-content: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noir002&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=noir002&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noir002&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph" />
 </div>
+
 
 <br>
 
