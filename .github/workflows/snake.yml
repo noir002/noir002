@@ -1,0 +1,25 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs once every day at midnight
+  workflow_dispatch:      # allows manual run from Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: noir002
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output         # where snake file will go
+          build_dir: dist              # where files are generated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
