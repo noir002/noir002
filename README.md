@@ -33,11 +33,11 @@ Welcome Here :)
 
 ```markdown
 🎓 Pursuing Bachelors in Computer Science
-👨‍💻 Loves Competitive Programing and Designing .
+👨‍💻 Loves Competitive Programing and Web Designing .
 🔎 Main interests: Developing & Simplifying Complex Design Architecture.
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into DevOps and Next.js
-🌟 Proficient in: Java, JavaScript
+🌟 Proficient in: C++, JavaScript
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🔄 To understand recursion, you first need to understand recursion.
